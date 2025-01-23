@@ -1,0 +1,12 @@
+flask
+flask-ngrok
+gensim
+pythainlp
+scikit-learn
+pandas
+numpy
+openpyxl
+matplotlib
+pyngrok
+nltk
+python-dotenv
